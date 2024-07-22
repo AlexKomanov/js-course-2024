@@ -2,9 +2,13 @@
 // console.log("Lorem Ipsum is simply dummy text of the printing!")
 // console.log("Lorem Ipsum is simply dummy text of the printing!")
 // console.log("Lorem Ipsum is simply dummy text of the printing!")
+// console.log("Lorem Ipsum is simply dummy text of the printing!")
+// console.log("Lorem Ipsum is simply dummy text of the printing!")
 
-// With variables
-// const text = "Lorem Ipsum is simply dummy text of the printing!!!"
+// With variables§
+// const text = "Lorem Ipsum is simply dummy text of the printing"
+// console.log(text)
+// console.log(text)
 // console.log(text)
 // console.log(text)
 // console.log(text)
@@ -45,18 +49,21 @@
 // console.log(income - 1000)
 // income = "Alex"
 // console.log(income)
-// console.log(income + 1000)
+// console.log(income - 1000)
 
 // let vs var
-// var age = 5
-// console.log(age)
-// var age = 56
-// console.log(age)
 
 // let age2 = 5
 // console.log(age2)
 // let age2 = 56
 // console.log(age2)
+
+// var age = 56
+// console.log(age)
+// var age = 5
+// console.log(age)
+
+
 
 // const vs let
 
@@ -72,6 +79,7 @@
 
 // Declare variables via const
 // const text = element.getText() // Exapmle of reading text from element
+// text = "Not valid text"
 // expect(text).toBe("text") // Exapmle of validation
 
 // without keywords
