@@ -1,7 +1,7 @@
-console.log("Hello Alex!")
-console.log(35)
-console.log(true)
-console.log({"name": "Alex"}) // This code prints object with 'name' key
+// console.log("Hello Alex!")
+// console.log(35)
+// console.log(true)
+// console.log({"name": "Alex"}) // This code prints object with 'name' key
 
 // console.log({"name": "Alexander"}) // One line comment
 
