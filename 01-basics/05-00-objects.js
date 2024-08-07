@@ -73,11 +73,11 @@
 
 // Deleting property
 
-const pizza = {
-    topping: "cheese",
-    'main sauce': "marinara",
-    size: "small"
-};
+// const pizza = {
+//     topping: "cheese",
+//     'main sauce': "marinara",
+//     size: "small"
+// };
 
 // console.log(pizza)
 
