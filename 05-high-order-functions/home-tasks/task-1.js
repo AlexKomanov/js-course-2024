@@ -7,7 +7,5 @@ for(let i = 0; i < numbers.length; i++) {
 }
 console.log("Regular loop result:", resultArray);
 
-// Your task: Replace the above loop with map method
-// Solution:
-const mapResult = numbers.map(num => num * 3 + 2);
-console.log("Map result:", mapResult);
+const resultArrayMap = numbers.map(num => num * 3 + 2);
+console.log("Map method result:", resultArrayMap);

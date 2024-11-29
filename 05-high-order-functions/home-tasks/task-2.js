@@ -7,7 +7,6 @@ for(let i = 0; i < numbers.length; i++) {
 }
 console.log("Regular loop result:", sum);
 
-// Your task: Replace the above loop with reduce method
-// Solution:
-const reduceResult = numbers.reduce((acc, curr) => acc + curr, 0);
-console.log("Reduce result:", reduceResult);
+const sumWithReduce = numbers.reduce((accumulator, currentValue) => accumulator + currentValue, 0);
+console.log("Reduce method result:", sumWithReduce);
+
